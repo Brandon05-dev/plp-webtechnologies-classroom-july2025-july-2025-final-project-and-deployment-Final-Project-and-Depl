@@ -4,7 +4,7 @@
 Brantech Solutions is a professional multi-page website designed to showcase a modern tech company offering digital solutions across Africa. The project demonstrates mastery of HTML5, CSS3, and JavaScript, with a focus on responsive design, interactivity, and real-world deployment. It is built as a final assignment for the PLP Web Technologies course (July 2025).
 
 ## Live Demo
-[Live Website on Netlify](https://brantechsolutions.netlify.app)  
+[Live Website on Netlify](https://brantechplpfinalproject.netlify.app/)  
 *(Replace with your deployed URL if different)*
 
 ## Project Structure
@@ -47,10 +47,6 @@ Brantech Solutions is a professional multi-page website designed to showcase a m
 ## Deployment
 - Recommended: [Netlify](https://netlify.com), [GitHub Pages](https://pages.github.com), or [Vercel](https://vercel.com)
 - All files are static and ready for drag-and-drop deployment
-
-## Credits
-- Design and content inspired by [brantechsolutions.netlify.app](https://brantechsolutions.netlify.app)
-- Built by Brandon Omutiti for PLP Web Technologies Final Project
 
 ---
 © 2025 Brantech Solutions. All rights reserved.
